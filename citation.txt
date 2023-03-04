@@ -1,8 +1,7 @@
-@InProceedings{Hada_2021_WACV,
-    author    = {Hada, Suryabhan Singh and Carreira-Perpinan, Miguel A.},
-    title     = {Style Transfer by Rigid Alignment in Neural Net Feature Space},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {January},
-    year      = {2021},
-    pages     = {2576-2585}
+@inproceedings{REPO-258,
+    author = "Hada, Suryabhan Singh and Carreira-Perpinan, Miguel A.",
+    booktitle = "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    pages = "2576-2585",
+    title = "{Style Transfer by Rigid Alignment in Neural Net Feature Space}",
+    year = "2021"
 }
