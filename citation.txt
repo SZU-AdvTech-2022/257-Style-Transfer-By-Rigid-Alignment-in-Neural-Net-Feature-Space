@@ -1,0 +1,7 @@
+@inproceedings{REPO-258,
+    author = "Hada, Suryabhan Singh and Carreira-Perpinan, Miguel A.",
+    booktitle = "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    pages = "2576-2585",
+    title = "{Style Transfer by Rigid Alignment in Neural Net Feature Space}",
+    year = "2021"
+}
